@@ -1,0 +1,103 @@
+{
+  "main": {
+    "id": "a5bda9bd9c07519d",
+    "type": "split",
+    "children": [
+      {
+        "id": "cf19c00cebbae25a",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "docs/005 Montessori/Montessori für Erwachsene.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d6f10164750d6142",
+    "type": "split",
+    "children": [
+      {
+        "id": "11ff4cc87d052842",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "12fcc38ed9442111",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "ec060e1347455430",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "c88a797dea0bb714",
+    "type": "split",
+    "children": [
+      {
+        "id": "663228b204d18468",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "63f6d761ff26fc46",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "docs/005 Montessori/Montessori für Erwachsene.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "cf19c00cebbae25a",
+  "lastOpenFiles": [
+    "docs/005 Montessori/Montessori für Erwachsene.md",
+    "docs/Hier geht es zu nächsten Seite.md",
+    "docs/index.md",
+    "README.md",
+    "2021-11-22-22-49-26.png",
+    "2021-11-22-22-52-49.png",
+    "2021-11-22-22-54-02.png",
+    "docs/lxkl.md",
+    "obsidian testseite.md",
+    "005 Persönliches/Alex Kahl.md"
+  ]
+}

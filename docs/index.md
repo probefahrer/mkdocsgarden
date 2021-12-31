@@ -1,8 +1,11 @@
-# Obsidian Notes
+# LXKL Digital Garden
+Huch, was ist denn jetzt hier passiert?
 
 Publish your public notes with MkDocs
 
 Test [[lxkl]]
+
+[[Hier geht es zu nächsten Seite]]
 
 ## Hello World!
 
