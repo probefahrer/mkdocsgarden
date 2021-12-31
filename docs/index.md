@@ -2,7 +2,7 @@
 
 Publish your public notes with MkDocs
 
-Test lxll
+Test [[lxkl]]
 
 ## Hello World!
 
